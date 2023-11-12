@@ -1,0 +1,4 @@
+python .\randomppt.py
+
+pause
+
